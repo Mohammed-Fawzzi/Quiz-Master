@@ -24,5 +24,5 @@ Quiz Master is a web application designed to test your knowledge with a variety 
 
 ## Live Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://mohammed-fawzzi.github.io/Quiz-Master/).
 
